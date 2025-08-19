@@ -30,8 +30,8 @@ If you find our work useful in your research, please consider citing:
 
 ```bibtex
 @article{yoon2025occlusion,
-  title   = {Occlusion-robust Stylization for Drawing-based 3D Animation},
-  author  = {Yoon, Sunjae and Koo, Gwanhyeong and Lee, Younghwan and Hong, Ji Woo and Yoo, Chang D.},
-  journal = {ICCV},
-  year    = {2025}
+  title={Occlusion-robust Stylization for Drawing-based 3D Animation},
+  author={Yoon, Sunjae and Koo, Gwanhyeong and Lee, Younghwan and Hong, Ji Woo and Yoo, Chang D},
+  journal={arXiv preprint arXiv:2508.00398},
+  year={2025}
 }
