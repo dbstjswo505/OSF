@@ -20,7 +20,7 @@ We propose a novel framework for **stylizing 3D animations from 2D drawings** th
 ---
 
 ## 🚀 Code Release
-The source code and pretrained models will be released soon.  
+The source code and pretrained models will be released soon!
 Stay tuned for updates!!!
 
 ---
