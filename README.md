@@ -22,7 +22,6 @@ We propose a novel framework for **stylizing 3D animations from 2D drawings** th
 ## 🚀 Code Release
 The source code and pretrained models will be released soon!
 Stay tuned for updates 
-(Sorry for late, due to many works at the end of 2025. Will be released before the Jan.2026)!
 
 ---
 
